@@ -59,7 +59,7 @@ SELECT product_name,
 FROM product
 WHERE category_id <> 1;
 
-‐-8. Pelanggan dari Oloo atau Fliptune  [WHERE, OR]
+--8. Pelanggan dari Oloo atau Fliptune  [WHERE, OR]
 Tampilkan nama semua pelanggan yang nama perusahaannya adalah Oloo atau Fliptune.
 
 SELECT contact_name
