@@ -12,4 +12,4 @@ Database ini terdiri dari 6 tabel yang saling terhubung:
 1. Jalankan kueri di file `schema.sql` untuk membangun struktur database.
 2. Gunakan `solutions.sql` untuk melihat jawaban dari 30 soal latihan yang tersedia.
 
-.
+
